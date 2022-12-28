@@ -1,4 +1,6 @@
-words:
+traits:
+  - дощ не йде, а падає
+dictionary:
   - name: алярмово
     description: >
       швидко, негайно, терміново
